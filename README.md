@@ -26,9 +26,9 @@ testing.
  - Tools: Intellij Idea, Eclipse, MySQL Workbench, Postman, PowerBI, Tableau, Git
 
 ## EDUCATION 
-  ### GRADUATE CERTIFICATE PROGRM, DURHAM COLLEGE, OSHAWA ONTARIO    (Jan 2021 - August 2022)
+  #### GRADUATE CERTIFICATE PROGRM, DURHAM COLLEGE, OSHAWA ONTARIO    (Jan 2021 - August 2022)
    - Graduate certificate program in Data Analytics for Business Decision Making
-  ### BACHELOR OF ENGINEERING, ALVA’S INSTITUTE OF ENGINEERING, INDIA (Sepetember 2014 - June 2018)
+  #### BACHELOR OF ENGINEERING, ALVA’S INSTITUTE OF ENGINEERING, INDIA (Sepetember 2014 - June 2018)
    - B.E. in Information Science and Engineering
 
 ## 
