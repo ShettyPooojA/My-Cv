@@ -9,7 +9,7 @@
 
 
 ## Work Experience 
- ### Associate - Software Engineer - September 2018 - December 2021 
+ ### Associate - Software Engineer (September 2018 - December 2021) 
   - Worked as a backend developer for the OTH application that uses MongoDB and Neo4j as core databases.
   - Designed and developed core modules using Java, Spring Boot.
   - Optimized Data Ingestion flow to support clients with 350 400K data.
@@ -20,6 +20,6 @@ testing.
 
 ## Education 
   ### BACHELOR OF ENGINEERING, ALVA’S INSTITUTE OF ENGINEERING, INDIA (Sepetember 2014 - June 2018)
-      - B.E. in information Science and engineering.
+     - B.E. in information Science and engineering.
   ### GRADUATE CERTIFICATE PROGRM, DURHAM COLLEGE, OSHAWA ONTARIO    (Jan 2021 - August 2022)
-      - Graduate certificate program in Data Analytics for Business Decision Making
+     - Graduate certificate program in Data Analytics for Business Decision Making
